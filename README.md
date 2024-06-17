@@ -10,6 +10,8 @@ This repository my work for the [Exercism](https://exercism.org/) C# track.
 ### Submission Command
 `exercism submit Exercism\csharp\annalyns-infiltration\AnnalynsInfiltration.cs"`
 
+![Banner](Data/Images/CSharp-Exercism-S02-Booleans-Title.png)
+
 # Annalyn's Infiltration
 
 Welcome to Annalyn's Infiltration on Exercism's C# Track.
